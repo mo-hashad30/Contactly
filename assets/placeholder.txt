@@ -1,4 +1,0 @@
-Please replace these placeholder images with actual screenshots of your application:
-
-1. hero-image.png - A screenshot of the main application interface
-2. about-image.png - A screenshot of the dashboard or another key feature
